@@ -7,7 +7,7 @@
 
 @font-face{
     font-family: "Autographer";
-    src:url(font/Autographer.otf); /* format("otf");  to tell what the format is */
+    src:url(Autographer.otf); /* format("otf");  to tell what the format is */
     font-weight: normal;
 }
 
